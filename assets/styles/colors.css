@@ -1,0 +1,59 @@
+/* -- Primary -- */
+
+.color-primary-foreground {
+  color: hsl(0, 50%, 45%);
+  fill: hsl(0, 50%, 45%);
+}
+
+.color-primary-background {
+  background-color: hsl(0, 50%, 45%);
+}
+
+.color-primary-border {
+  border-color: hsl(0, 50%, 45%);
+}
+
+/* -- Secondary -- */
+
+.color-secondary-foreground {
+  color: hsl(220, 30%, 50%);
+  fill: hsl(220, 30%, 50%);
+}
+
+.color-secondary-background {
+  background: hsl(220, 30%, 50%);
+}
+
+.color-secondary-border {
+  color: hsl(220, 30%, 50%);
+}
+
+/* -- Success -- */
+
+.color-success-foreground {
+  color: hsl(160, 30%, 50%);
+  fill: hsl(160, 30%, 50%);
+}
+
+.color-success-background {
+  background: hsl(160, 30%, 50%);
+}
+
+.color-success-border {
+  color: hsl(160, 30%, 50%);
+}
+
+/* -- Tints and Shades -- */
+
+.color-black-foreground {
+  color: hsl(160,41%,10%);
+  fill: hsl(160,41%,10%);
+}
+
+.color-black-background {
+  background: hsl(160,41%,10%);
+}
+
+.color-black-border {
+  border-color: hsl(160,41%,10%);
+}
