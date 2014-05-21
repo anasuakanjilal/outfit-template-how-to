@@ -57,8 +57,6 @@ Notice the *outside.html* and *inside.html* files. These are variants of the DL 
 
 You can set the dimensions of the HTML element to be the outer limits of your slug area, and the BODY element to the outer limits of the bleed area. This will allow you to use full bleed photography and color backgrounds.
 
-![image with bleed and slug](url)
-
 For a DL we need three panels of pretty specific sizes.
 From left to right:
 Outside leaf: 98cm, 99cm, 100cm
@@ -123,4 +121,6 @@ This is an introduction to coding HTML intended for print.
 
 Have at it. Add blocks of content, images, etc. When you're done you might have something a little like this:
 
-![DL Front and back in browser](url)
+![Outside layout](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/dl-layout-outside.png)
+
+## Now the interesting part
