@@ -132,3 +132,35 @@ Have at it. Add blocks of content, images, etc. When you're done you might have 
 ![Outside layout](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/dl-layout-outside.png)
 
 ## Now the interesting part
+
+First navigate to the Template index and click Create New Template
+
+![Template index](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/templates-index.png)
+
+Give your new template a name and choose which team you'd like to make it for.
+
+![New template dialog](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/create-template-dialog.png)
+
+Now you should now see something like this:
+
+![Blank template](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/blank-template.png)
+
+Paste in your code for the outside of the DL, click on the *Variants* tab and change the variant name from *Untitled Variant* to *Outside*
+
+![Paste code](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/author-view-1.png)
+
+Note that nothing is styled, so we'll need to host our stylesheets somewhere and replace our template's local URLs. As this demo is hosted on github, we can use rawgit.com to provide our stylesheets, you could upload yours to anywhere you like, (such as Amazon S3). We'll be adding the functionality to host these assets directly on Outfit very soon.
+
+![Change URLs](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/swap-urls.png)
+
+Once your stylesheets are loaded you should see your design as it was locally.
+
+![Check preview](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/check-preview.png)
+
+Now we can start to make parts of the template editable. We'll start with the "Supporting introductory statement" text. Find the text content for this in your template and replace with a template tag. You can call it anything you like. EG:
+
+![Check preview](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/first-tag-replaced.png)
+
+Open the *Inputs* tab and edit the initial example input.
+
+![Check preview](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/first-tag-edit.png)
