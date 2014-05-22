@@ -55,7 +55,15 @@ Colors and typography are good examples global rules.
 
 Notice the *outside.html* and *inside.html* files. These are variants of the DL Flyer Template that we're making. They're what's to be printed front and back of our finished DL. Just code them up as you would any other HTML document, except that you're designing within a a4 landscape format.
 
-You can set the dimensions of the HTML element to be the outer limits of your slug area, and the BODY element to the outer limits of the bleed area. This will allow you to use full bleed photography and color backgrounds.
+You can set the dimensions of the HTML element to be the outer limits of your slug area, and the BODY element to the outer limits of the bleed area. This will allow you to use full bleed photography and color backgrounds. Notice that for Outfit to read your design's outer most dimensions they must be on either the HTML or BODY element's style attribute, not only in the stylesheet.
+
+```html
+<html style="height: 230mm; width: 317mm; padding: 5mm">
+  <head></head>
+  <body style="height: 220mm; width: 307mm;">
+  </body>
+</html>
+```
 
 For a DL we need three panels of pretty specific sizes.
 From left to right:
