@@ -202,3 +202,17 @@ Now put the name of your input wherever you'd like the URL for the image to appe
 Notice that for URLs we need to use the non-escaping tripple curly braces again.
 
 ![Check preview](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/url-tag-replaced.png)
+
+Expose some editable sections / attributes on the inside of your DL and you should be ready to test it as a content editor.
+
+Navigate to the build index and make a new build
+
+![Check preview](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/new-build.png)
+
+Add the DL Flyer to the build and click on the list item which should have now appear in the left menu.
+
+![Check preview](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/add-to-build.png)
+
+Check it out!
+
+![Check preview](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/consumer-view.png)
