@@ -159,8 +159,10 @@ Once your stylesheets are loaded you should see your design as it was locally.
 
 Now we can start to make parts of the template editable. We'll start with the "Supporting introductory statement" text. Find the text content for this in your template and replace with a template tag. You can call it anything you like. EG:
 
+![Check preview](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/first-tag-location.png)
 ![Check preview](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/first-tag-replaced.png)
 
 Open the *Inputs* tab and edit the initial example input.
 
 ![Check preview](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/first-tag-edit.png)
+![Check preview](https://raw.githubusercontent.com/net-engine/outfit-template-how-to/master/how-to-assets/images/first-tag-edit-details.png)
