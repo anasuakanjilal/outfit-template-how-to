@@ -49,8 +49,8 @@ h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {
 }
 
 #outside .panel.second {
-  right: 105mm;
-  width: 99mm;
+  right: 30mm;
+  width: 120mm;
 }
 
 #outside .panel.first {
@@ -161,7 +161,6 @@ ul.contact-info li {
 ul.contact-info li:first-child { border-top: none; }
 
 #outside .panel.first, #inside .panel.third {
-  background-color: rgba(0, 0, 0, 0.7);
   color: white;
 }
 
